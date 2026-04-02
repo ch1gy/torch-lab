@@ -8,4 +8,6 @@ My goal is to understand and play with the evolving AI ecosystem in Unreal 5...
 
 - 01_tensors.py — tensor basics
 
-- 02_gradients.py — gradients and autograd ( coming up )
+- 02_gradients.py — gradients and autograd
+
+- 03_neural_net.py - Neural networks

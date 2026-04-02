@@ -11,3 +11,5 @@ My goal is to understand and play with the evolving AI ecosystem in Unreal 5...
 - 02_gradients.py — gradients and autograd
 
 - 03_neural_net.py - Neural networks
+
+- 04_mnist.py - Dataset Training

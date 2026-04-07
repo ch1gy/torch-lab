@@ -12,4 +12,6 @@ My goal is to understand and play with the evolving AI ecosystem in Unreal 5...
 
 - 03_neural_net.py - Neural networks
 
-- 04_mnist.py - Dataset Training
+- 04_mnist.py - mnist Dataset Training
+
+- 05_cifar.py - tried cifar dataset, but got a lower accuracy... 
